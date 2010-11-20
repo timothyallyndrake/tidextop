@@ -1,0 +1,47 @@
++=======================================================================================+
++					tidextop					+
++=======================================================================================+
+
+---------------------
+ Prerequisites
+---------------------
+
+In order for tidextop to function, you will need the following prerequisites:
+
+  - Appcelerator Titanium <http://www.appcelerator.com/products/download>
+
+-------
+ Setup
+-------
+
+Once installed, open Appcelerator Titanium.
+
+Locate and select the unzipped tidextop folder using the "Import Project" feature in
+Appcelerator Titanium.
+
+At this point, you may edit the imported project and begin authoring your Titanium
+desktop application with Sencha ExtJS!
+
+--------------------
+ Getting Assistance
+--------------------
+
+For more details on tidextop, please email:
+Timothy Allyn Drake <me@timothyallyndrake.com>
+
+To report a tidextop bug or make a feature request, please visit:
+<https://github.com/timothyallyndrake/tidextop/issues>
+
+For more details on Appcelerator Titanium, please visit:
+<http://www.appcelerator.com>
+
+For the Appcelerator Titanium Developer Community, please visit:
+<http://community.appcelerator.org>
+
+---------
+ Credits
+---------
+
+tidextop was made possible by the following contributors:
+
+- Timothy Allyn Drake, Author
